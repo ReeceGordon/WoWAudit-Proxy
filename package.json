@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "cors-anywhere": "^0.4.4"
+  },
+  "scripts": {
+    "start": "node server.js ./node_modules/cors-anywhere"
   }
 }
